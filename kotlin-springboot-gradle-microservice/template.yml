@@ -1,0 +1,5 @@
+status: adopt
+parameters:
+        name:
+                type: string
+
